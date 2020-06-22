@@ -1,0 +1,13 @@
+{
+  "appId": "com.anil.mycloud.movie",
+  "appName": "mycloud-movies",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
