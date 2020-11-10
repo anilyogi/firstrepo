@@ -29,3 +29,6 @@ module.exports = function (config) {
     singleRun: false
   });
 };
+
+
+karma text added for testing
